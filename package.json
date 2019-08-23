@@ -1,7 +1,7 @@
 {
     "name": "react-native-ga-segment",
     "version": "0.0.3",
-    "description": "Google Analytics Integration for Segment's React-Native analytics library."
+    "description": "Google Analytics Integration for Segment's React-Native analytics library.",
     "keywords": [
         "analytics",
         "cached",

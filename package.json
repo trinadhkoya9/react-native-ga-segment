@@ -2,6 +2,7 @@
 	"name": "react-native-ga-segment",
 	"version": "0.0.3",
 	"description": "Google Analytics Integration for Segment's React-Native analytics library.",
+	"main": "index.js",
 	"keywords": [
 		"analytics",
 		"cached",
@@ -18,8 +19,5 @@
 		"url": "https://github.com/trinadhkoya9/react-native-ga-segment"
 	},
 	"license": "(MIT AND Apache-2.0)",
-	"author": "Trinadh Koya",
-	"main": "index.js"
-
-
+	"author": "Trinadh Koya"
 }
